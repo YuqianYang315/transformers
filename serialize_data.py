@@ -42,3 +42,11 @@ def loads_data(file,space):
         for key in res:
             space[key] = res[key]
 
+            
+         
+import serilize_data as f
+f.dumps_data(dataframe,path)
+
+import serilize_data as f
+f.loads_data(dataframe,path)
+
