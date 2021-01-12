@@ -46,7 +46,7 @@ def loads_data(file,space):
 用法：            
 1. 把文件放在路径下  
 2. 
-import serilize_data as f
+import serialize_data as f
 f.dumps_data(dataframe,path)
 
 import serilize_data as f
